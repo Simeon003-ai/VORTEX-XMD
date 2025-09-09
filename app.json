@@ -84,12 +84,12 @@
     "OWNER_NAME": {
       "description": "Bot owner name.",
       "required": false,
-      "value": "HansTz"
+      "value": "SIMEON"
     },
     "OWNER_NUMBER": {
       "description": "Owner's WhatsApp number with country code.",
       "required": false,
-      "value": "2557536684XX"
+      "value": "2347046970033"
     },
     "BOT_NAME": {
       "description": "Bot name.",
