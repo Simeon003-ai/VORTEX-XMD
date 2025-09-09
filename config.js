@@ -14,8 +14,8 @@ module.exports = {
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    OWNER_NAME: process.env.OWNER_NAME || "HansTech",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "2347046970033",
+    OWNER_NAME: process.env.OWNER_NAME || "SIMEON",
     DEV: process.env.DEV || "255760774888",
 
     // ==============================
@@ -29,7 +29,7 @@ module.exports = {
     // ==============================
     MODE: process.env.MODE || "public",
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
-    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+    ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_BIO: process.env.AUTO_BIO || "false",
 
     // ==============================
